@@ -9,7 +9,7 @@ const Footer = () => {
 };
 
 const footerStyle = {
-    backgroundStyle: '#4CAF50',
+    backgroundColor: '#4CAF50',
     padding: '10px',
     color: 'white',
     textAlign: 'center',
