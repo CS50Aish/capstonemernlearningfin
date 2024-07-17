@@ -146,3 +146,16 @@ npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.8.2
 npm notice Run npm install -g npm@10.8.2 to update!
 npm notice 
 
+labuser@ubuntu2204:~/Desktop/capstonemernlearningfin/learning-ease-pro$ npm install axios
+
+added 3 packages, and audited 1549 packages in 5s
+
+261 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
