@@ -22,7 +22,7 @@ const headerStyle = {
     textAlign: 'center'
 }
 
-const navListStyle = {
+const navStyleList = {
     listStyleType: 'none',
     margin: 0,
     padding: 0, 
